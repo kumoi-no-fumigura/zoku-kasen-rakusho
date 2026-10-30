@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/zoku-kasen-rakusho",
  "yomi": "ぞくかせんらくしょ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（歌人評）",
+  "era": "鎌倉初期",
+  "author": "未詳",
+  "desc": "「歌仙落書」にならい、後鳥羽院の和歌所の時代の歌人たちの歌風を比喩で評し、和歌所歌合・仙洞歌合などの秀歌を挙げた歌人評。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -122,6 +127,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:17:39+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
